@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "DINProCond";
+  src: url('../fonts/DINPro-Cond.otf') format("opentype");
+}
+
+@font-face {
+  font-family: "DINProCondBold";
+  src: url('../fonts/DINPro-CondBold.otf') format("opentype");
+}
+
+@font-face {
+  font-family: "DINProCondMedium";
+  src: url('../fonts/DINPro-CondMedium.otf') format("opentype");
+}
+
+@font-face {
+  font-family: "DINProLight";
+  src: url('../fonts/DINPro-Light.otf') format("opentype");
+}
